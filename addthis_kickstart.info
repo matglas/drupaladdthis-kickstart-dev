@@ -1,0 +1,19 @@
+name = AddThis Kickstart
+description = Start with only a few modules enabled.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = rdf
+dependencies[] = coder
+dependencies[] = devel
+dependencies[] = addthis
+files[] = addthis_kickstart.profile
+
